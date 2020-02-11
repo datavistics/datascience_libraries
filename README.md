@@ -1,6 +1,8 @@
 # Efficiency
 ## Pandas
 [Modin](https://github.com/modin-project/modin) Scale your pandas workflows by changing one line of code
+[Swifter](https://github.com/jmcarpenter2/swifter) A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+[pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) Create HTML profiling reports from pandas DataFrame objects
 
 ## Regex
 [Flash Text](https://github.com/vi3k6i5/flashtext) Much faster for large regex or large text
